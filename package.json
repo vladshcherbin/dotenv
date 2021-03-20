@@ -10,7 +10,9 @@
     "lint": "eslint src",
     "prepublishOnly": "yarn lint"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dotenv-safe": "^8.2.0"
+  },
   "devDependencies": {
     "eslint": "^7.22.0",
     "eslint-config-airbnb-base": "^14.2.1",
