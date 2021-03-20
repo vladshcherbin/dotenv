@@ -1,0 +1,20 @@
+{
+  "name": "@shcherbin/dotenv",
+  "description": "Load environment variables",
+  "version": "0.1.0",
+  "author": "Vlad Shcherbin <vlad.shcherbin@gmail.com>",
+  "repository": "vladshcherbin/dotenv",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "prepublishOnly": "yarn lint"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": ["src"],
+  "engines": {
+    "node": ">=12"
+  },
+  "license": "MIT"
+}
