@@ -1,7 +1,7 @@
 {
   "name": "@shcherbin/dotenv",
   "description": "Load environment variables",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Vlad Shcherbin <vlad.shcherbin@gmail.com>",
   "repository": "vladshcherbin/dotenv",
   "type": "module",
